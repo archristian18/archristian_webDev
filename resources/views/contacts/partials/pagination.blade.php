@@ -1,0 +1,3 @@
+<div>
+    {{ $contacts->links() }}
+</div>
